@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "esp32_nat_router", "esp32_nat_router.vgdbproj", "{D9F0F108-26F3-4140-9313-F3D51967C47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		Tests (Debug)|VisualGDB = Tests (Debug)|VisualGDB
+		Tests (Release)|VisualGDB = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Tests (Debug)|VisualGDB.ActiveCfg = Tests (Debug)|VisualGDB
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Tests (Debug)|VisualGDB.Build.0 = Tests (Debug)|VisualGDB
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Tests (Release)|VisualGDB.ActiveCfg = Tests (Release)|VisualGDB
+		{D9F0F108-26F3-4140-9313-F3D51967C47F}.Tests (Release)|VisualGDB.Build.0 = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89872DC0-3DA3-42FF-A4D7-06ED85C9157E}
+	EndGlobalSection
+EndGlobal
